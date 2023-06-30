@@ -1,0 +1,25 @@
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\Healing Streams Subscription Form.exe
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\Healing Streams Subscription Form.deps.json
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\Healing Streams Subscription Form.runtimeconfig.json
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\Healing Streams Subscription Form.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\Healing Streams Subscription Form.pdb
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.csproj.AssemblyReference.cache
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing_Streams_Subscription_Form.Form1.resources
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing_Streams_Subscription_Form.Properties.Resources.resources
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.csproj.GenerateResource.cache
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.AssemblyInfoInputs.cache
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.AssemblyInfo.cs
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.csproj.CopyComplete
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\refint\Healing Streams Subscription Form.dll
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.pdb
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\Healing Streams Subscription Form.genruntimeconfig.cache
+C:\Users\EmmanuelIlivieda\Desktop\Healing Streams Subscription Form\Healing Streams Subscription Form\obj\Debug\net6.0-windows\ref\Healing Streams Subscription Form.dll
